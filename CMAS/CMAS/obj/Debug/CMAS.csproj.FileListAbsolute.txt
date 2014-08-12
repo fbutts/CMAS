@@ -8,3 +8,5 @@ C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Wiki
 C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.csproj.GenerateResource.Cache
 C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.exe
 C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.pdb
+C:\Users\FrederickCButts\Desktop\CMAS MAIN\CMAS\CMAS\CMAS\obj\Debug\CMAS.exe
+C:\Users\FrederickCButts\Desktop\CMAS MAIN\CMAS\CMAS\CMAS\obj\Debug\CMAS.pdb
